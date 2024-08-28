@@ -1,0 +1,166 @@
+SPRITES:
+
+name: Video Game Sprite Level Side-scrolling Platform Game PNG
+license: N/A
+creator: miguelpaty
+link: https://imgbin.com/png/FgJLjQDd/video-game-sprite-level-side-scrolling-platform-game-png
+
+name: dungeon platforms (Tile-based video game Side-scrolling Sprite Platform game 2D computer graphics, 2d furniture top view, game, isometric Graphics In Video Games And Pixel Art png)
+license: N/A
+creator: N/A
+link: https://www.pngegg.com/en/png-yzkgr
+
+name: long platforms (Sprite Platform game Side-scrolling 2D computer graphics Two-dimensional space, sprite, 3D Computer Graphics, grass png)
+license:N/A
+creator:N/A
+link: https://www.pngegg.com/en/png-tjvqg
+
+name: Brown stone tile art, Club Penguin Platform game Tile-based video game 2D computer graphics OpenGameArt.org, Stone, game, brown png
+license: N/A
+creator: N/A
+link: https://www.pngegg.com/en/png-niwod
+
+name:
+license:
+creator:
+link:
+
+name: Tile-based video game Platform game Sprite 2D computer graphics, hill, game, video Game png
+license:N/A
+creator:N/A
+link: https://www.pngegg.com/en/png-nmjbu
+
+name: epilogue-background
+license: free to use
+creator: Bing Image creator
+link: https://bing.com/chat
+
+name: Halloween chill
+license: N/A
+creator: PixelJeff
+link: https://www.behance.net/gallery/107019725/Halloween-Chill
+
+name: city pixel art png
+license: N/A
+creator: N/A
+link: https://www.pngkit.com/bigpic/u2q8w7a9w7y3r5y3/
+
+name: Pixel art metallic lever industrial mechanism lever vector icon for 8bit game on white background
+license: N/A
+creator: kaleb-silva
+link: https://www.freepik.com/premium-vector/pixel-art-metallic-lever-industrial-mechanism-lever-vector-icon-8bit-game-white-background_28763206.htm
+
+name: Key Icon
+license: Non-commercial use
+creator: N/A
+link: https://www.pngaaa.com/detail/782285
+
+name: Glow Golden png cutout
+license: Creative Commons 4.0 BY-NC
+creator: N/A (Sourced from pngall.com)
+link: https://www.pngall.com/glow-png/download/113820
+
+name: Streets of Rage 2 city background
+license: N/A
+creator: N/A
+link: https://www.pinterest.com/pin/694750680008442198/
+
+name: 8-bit nightsky
+license: N/A
+creator: Dadetz
+link: https://www.goodfon.com/minimalism/wallpaper-8bit-vremya-sutki-noch-more-2339.html
+
+name: City buildings pixel art png
+license: Personal use only
+creator: N/A (sourced from VHV.RS)
+link: https://www.vhv.rs/viewpic/hxJhbhJ_city-building-pixel-art-hd-png-download/
+
+name: city skyline
+license: N/A
+creator: Nealpof
+link: https://www.cleanpng.com/png-pixel-art-city-the-art-of-the-argument-western-civ-1331611/
+
+name: Cute house transparent image vector
+license: Commercial license
+creator: Alucard21MAK
+link: https://pngtree.com/freepng/cute-house-transparent-image-vector_9008011.html
+
+name: Minecraft gold axe
+license: N/A
+creator: N/A
+link: https://minecraft.fandom.com/wiki/Axe
+
+name: Health icon
+creator: N/A
+license: N/A
+link: https://www.pngegg.com/en/png-invqg/download
+
+name: Pixel Adventure 1
+license: Standard Unity Asset Store EULA
+creator: Pixel Frog
+link: https://assetstore.unity.com/packages/2d/characters/pixel-adventure-1-155360
+
+candy: name: candy collectible
+creator: Kanyhome
+link: https://www.cleanpng.com/png-lollipop-candy-confectionery-gif-sweetness-kawaii-6323276/download-png.html
+license: personal use
+
+name: finish flag
+license: personal use
+creator: pngFind (no creator mentioned)
+link: https://www.pngfind.com/mpng/obJoo_flag-pole-mario-flag-hd-png-download/
+
+name: graveyard_pixelArt 
+license: https://creativecommons.org/licenses/by/4.0/
+creator: Rod_Praet
+link: https://opengameart.org/content/graveyard-set-pixel-art 
+
+name: Free 3 character sprite sheets pixel art (includes: Steam man, woodcutter and grave robber sprite sheets)
+license: Free/ royalty free/ personal and commercial use
+creator: CraftPix.net
+link:https://craftpix.net/freebies/free-3-character-sprite-sheets-pixel-art/
+
+name: ghost enemy-sheet
+license: Free to use
+creator: ChiliGames
+link: https://opengameart.org/content/ghost-sprite
+
+FONTS:
+
+name: Orbitron
+license: Free to use
+creator: Matt McInerney (sourced from google fonts)
+link: https://fonts.google.com/specimen/Orbitron?subset=latin&noto.script=Latn
+
+name: Pixeloid Font
+license: free to use
+creator: by GGBotNet
+link: https://www.fontspace.com/pixeloid-font-f69232
+
+AUDIO:
+
+name: 2-09 Haunty Halls Galaxy
+license: N/A (free use)
+creator: Koji kondo
+link: https://downloads.khinsider.com/game-soundtracks/album/super-mario-galaxy-2/2-09%2520Haunty%2520Halls%2520Galaxy.mp3
+
+name: Star Wars: Main Title
+license: Free download
+creator: John Williams (sourced from Sound FX center)
+link: http://soundfxcenter.com/download-sound/star-wars-main-theme-song/
+
+name: 04 Strike the Earth! (Plains of Passage)
+license: N/A (free use)
+creator: Jake Kaufman	
+link: https://downloads.khinsider.com/game-soundtracks/album/shovel-knight-original-soundtrack/04%2520Strike%2520the%2520Earth%2521%2520%2528Plains%2520of%2520Passage%2529.mp3
+
+name: Obi-Wan vs Darth Vader Theme | EPIC VERSION (feat. Battle of The Heroes)
+license: N/A (free to use)
+creator: Samuel Kim Music; John Williams (copy sourced from dodoconverter.com)
+link: https://dodoconverter.com/search.php?search=Star+wars+battle+of+the+heroes+samuel+kim
+
+name: Conclusion.mp3
+license: N/A (free to use)
+creator: Tetsuya Shibata (copy sourced from archive.org)
+link: https://archive.org/details/dmc-3-soundtrack/Disc+3/17.+M-20+End+(Conclusion).flac
+

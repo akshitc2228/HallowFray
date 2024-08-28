@@ -1,0 +1,82 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Axe
+  - AxeObject
+  - slumDoorKey
+  - Ladder
+  - exitWall
+  - Trap
+  - LeftBarrier
+  - RightBarrier
+  - left_block
+  - right_block
+  - deathTrap
+  - trapsUpperBound
+  - leftSmashLimit
+  - rightSmashLimit
+  - lever
+  - vanishSpikeWall2
+  - vanishSpikeWall1
+  - pauseMenu
+  - GameManager
+  - scorecard
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Enemy
+  - Water
+  - UI
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 1498907307
+    locked: 0
+  - name: Midground
+    uniqueID: 1310553339
+    locked: 0
+  - name: Foreground
+    uniqueID: 3768507995
+    locked: 0
+  - name: Player
+    uniqueID: 2769103873
+    locked: 0
+  - name: Items
+    uniqueID: 4029992031
+    locked: 0
+  - name: MainLayer
+    uniqueID: 2771931563
+    locked: 0
